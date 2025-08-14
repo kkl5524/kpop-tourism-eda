@@ -1,0 +1,181 @@
+region,year,arrivals
+Africa,1995,8
+Africa,1996,9
+Africa,1997,11
+Africa,1998,11
+Africa,1999,14
+Africa,2000,14
+Africa,2001,16
+Africa,2002,16
+Africa,2003,15
+Africa,2004,15
+Africa,2005,14
+Africa,2006,16
+Africa,2007,19
+Africa,2008,21
+Africa,2009,22
+Africa,2010,27
+Africa,2011,30
+Africa,2012,32
+Africa,2013,34
+Africa,2014,35
+Africa,2015,36
+Africa,2016,48
+Africa,2017,40
+Africa,2018,43
+Africa,2019,50
+Africa,2020,12
+Africa,2021,10
+Africa,2022,25
+Americas,1995,417
+Americas,1996,465
+Americas,1997,494
+Americas,1998,471
+Americas,1999,464
+Americas,2000,535
+Americas,2001,507
+Americas,2002,556
+Americas,2003,505
+Americas,2004,611
+Americas,2005,640
+Americas,2006,673
+Americas,2007,716
+Americas,2008,744
+Americas,2009,751
+Americas,2010,814
+Americas,2011,827
+Americas,2012,876
+Americas,2013,916
+Americas,2014,974
+Americas,2015,974
+Americas,2016,1116
+Americas,2017,1117
+Americas,2018,1243
+Americas,2019,1346
+Americas,2020,272
+Americas,2021,242
+Americas,2022,668
+Asia,1995,2557
+Asia,1996,2456
+Asia,1997,2653
+Asia,1998,3043
+Asia,1999,3462
+Asia,2000,4005
+Asia,2001,3875
+Asia,2002,3911
+Asia,2003,3421
+Asia,2004,4348
+Asia,2005,4534
+Asia,2006,4649
+Asia,2007,4798
+Asia,2008,5154
+Asia,2009,6144
+Asia,2010,6904
+Asia,2011,7827
+Asia,2012,9060
+Asia,2013,10014
+Asia,2014,11893
+Asia,2015,10973
+Asia,2016,14663
+Asia,2017,10755
+Asia,2018,12564
+Asia,2019,14561
+Asia,2020,1949
+Asia,2021,516
+Asia,2022,1944
+Europe,1995,427
+Europe,1996,445
+Europe,1997,436
+Europe,1998,401
+Europe,1999,408
+Europe,2000,481
+Europe,2001,455
+Europe,2002,536
+Europe,2003,514
+Europe,2004,531
+Europe,2005,541
+Europe,2006,572
+Europe,2007,605
+Europe,2008,646
+Europe,2009,646
+Europe,2010,709
+Europe,2011,753
+Europe,2012,807
+Europe,2013,864
+Europe,2014,961
+Europe,2015,936
+Europe,2016,1093
+Europe,2017,1107
+Europe,2018,1196
+Europe,2019,1299
+Europe,2020,251
+Europe,2021,178
+Europe,2022,507
+Middle East,1995,9
+Middle East,1996,7
+Middle East,1997,7
+Middle East,1998,9
+Middle East,1999,11
+Middle East,2000,10
+Middle East,2001,8
+Middle East,2002,11
+Middle East,2003,8
+Middle East,2004,11
+Middle East,2005,13
+Middle East,2006,15
+Middle East,2007,16
+Middle East,2008,18
+Middle East,2009,20
+Middle East,2010,25
+Middle East,2011,29
+Middle East,2012,35
+Middle East,2013,40
+Middle East,2014,46
+Middle East,2015,42
+Middle East,2016,45
+Middle East,2017,46
+Middle East,2018,49
+Middle East,2019,56
+Middle East,2020,8
+Middle East,2021,8
+Middle East,2022,27
+Other,1995,335
+Other,1996,302
+Other,1997,307
+Other,1998,314
+Other,1999,301
+Other,2000,277
+Other,2001,286
+Other,2002,317
+Other,2003,290
+Other,2004,302
+Other,2005,281
+Other,2006,230
+Other,2007,294
+Other,2008,308
+Other,2009,235
+Other,2010,320
+Other,2011,329
+Other,2012,330
+Other,2013,310
+Other,2014,293
+Other,2015,271
+Other,2016,277
+Other,2017,270
+Other,2018,252
+Other,2019,193
+Other,2020,27
+Other,2021,13
+Other,2022,28
+Asia,2023,8200
+Americas,2023,1370
+Europe,2023,920
+Middle East,2023,200
+Africa,2023,60
+Other,2023,240
+Asia,2024,12860
+Americas,2024,1720
+Europe,2024,1140
+Middle East,2024,250
+Africa,2024,70
+Other,2024,290
